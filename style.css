@@ -1,0 +1,23 @@
+body {
+    background: #444;
+    text-align: center;
+    margin: 64px 0 0 0;
+    font-family: 'Lato', sans-serif;
+  }
+.information {
+    color: white;
+}  
+a{
+    color: white;
+    text-decoration: none;
+
+}
+a:hover{
+    color: green;
+}
+
+  canvas {
+    border: solid 8px white;
+    background-color: #FBAB7E;
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+  }
